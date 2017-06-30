@@ -1,0 +1,12 @@
+Dataset: pricequal.dat
+Source: McConnell (1968). An Experimental Examination of the Price-Quality
+Relationship. The Journal of Business. Vol.41 #4, pp 439-444
+
+Description: Ordinal Ratings of Three Beers of Different Prices (Actually
+the same brand). 60 subjects each tasted each brand, spread over time
+in different orders.
+
+Variables/Columns
+Price   1  (3=High,2=Medium,1=Low)
+Quality Rating   3  (0=undrinkable,1=Poor,2=Fair,3=Good,4=Very Pleasant)
+Count   5-6  (number of Respondents)
